@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 
-const Counter = () => {
+export const Counter = () => {
     const [count, setCount] = useState(0);
 
     const increment = () => setCount(count + 1);
@@ -30,4 +30,3 @@ const Counter = () => {
     );
 };
 
-export default Counter;

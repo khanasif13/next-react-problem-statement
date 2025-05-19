@@ -1,7 +1,7 @@
 "use client";
 import React, { useEffect, useState } from 'react';
 
-function Stopwatch() {
+const Stopwatch = () => {
   const [seconds, setSeconds] = useState(0);
   const [isRunning, setIsRunning] = useState(false);
   let interval;

@@ -9,9 +9,9 @@ const menuData = [
   {
     title: 'React',
     items: [
-      { label: 'Counter', href: '/components/counter' },
-      { label: 'Stop Watch', href: '/components/stopwatch' },
-      { label: 'Todo List', href: '/components/todolist' },
+      { label: 'Counter', href: '/pages/CounterDemo' },
+      { label: 'Stop Watch', href: '/pages/StopWatchDemo' },
+      { label: 'Todo List', href: '/pages/TodoListDemo' },
     ],
   },
   {
@@ -20,14 +20,6 @@ const menuData = [
       { label: 'About Us', href: '/about' },
       { label: 'Careers', href: '/careers' },
       { label: 'Press', href: '/press' },
-    ],
-  },
-  {
-    title: 'Resources',
-    items: [
-      { label: 'Blog', href: '/blog' },
-      { label: 'Guides', href: '/guides' },
-      { label: 'Webinars', href: '/webinars' },
     ],
   },
 ];
