@@ -7,7 +7,6 @@ const FetchData = () => {
     const url = 'https://jsonplaceholder.typicode.com/posts';
     
     useEffect(() => {
-        console.log("Inside useEffect Hook");
         fetchdata();
     },[]);
 
