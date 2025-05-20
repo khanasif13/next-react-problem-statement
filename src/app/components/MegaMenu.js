@@ -12,11 +12,13 @@ const menuData = [
       { label: 'Counter', href: '/pages/CounterDemo' },
       { label: 'Stop Watch', href: '/pages/StopWatchDemo' },
       { label: 'Todo List', href: '/pages/TodoListDemo' },
+      { label: 'Fetch Data', href: '/pages/DataFetchDemo' },
     ],
   },
   {
     title: 'Company',
     items: [
+      
       { label: 'About Us', href: '/about' },
       { label: 'Careers', href: '/careers' },
       { label: 'Press', href: '/press' },
