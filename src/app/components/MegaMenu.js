@@ -13,6 +13,7 @@ const menuData = [
       { label: 'Stop Watch', href: '/pages/StopWatchDemo' },
       { label: 'Todo List', href: '/pages/TodoListDemo' },
       { label: 'Fetch Data', href: '/pages/DataFetchDemo' },
+      { label: 'Custom Hook', href: '/pages/CustomHookDemo' },
     ],
   },
   {
