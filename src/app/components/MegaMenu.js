@@ -14,6 +14,7 @@ const menuData = [
       { label: 'Todo List', href: '/pages/TodoListDemo' },
       { label: 'Fetch Data', href: '/pages/DataFetchDemo' },
       { label: 'Custom Hook', href: '/pages/CustomHookDemo' },
+      { label: 'Debounce Search', href: '/pages/DebounceSearchDemo' },
     ],
   },
   {
