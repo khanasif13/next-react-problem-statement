@@ -15,6 +15,7 @@ const menuData = [
       { label: 'Fetch Data', href: '/pages/DataFetchDemo' },
       { label: 'Custom Hook', href: '/pages/CustomHookDemo' },
       { label: 'Debounce Search', href: '/pages/DebounceSearchDemo' },
+      { label: 'Dice Problem', href: '/pages/DiceDemo' },
     ],
   },
   {
