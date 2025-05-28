@@ -16,6 +16,7 @@ const menuData = [
       { label: 'Custom Hook', href: '/pages/CustomHookDemo' },
       { label: 'Debounce Search', href: '/pages/DebounceSearchDemo' },
       { label: 'Dice Problem', href: '/pages/DiceDemo' },
+      { label: 'Carousel', href: '/pages/CarouselDemo'}
     ],
   },
   {
