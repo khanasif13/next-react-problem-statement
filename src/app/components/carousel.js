@@ -8,13 +8,13 @@ function Carousel({ cards }) {
     <>
       <div className="max-w-xl mx-auto p-4 space-y-4">
         <h2 className="text-xl font-semibold flex items-center gap-2">
-          ⚡ Build a card carousel component that displays one card at a time with navigation buttons ("Previous" and "Next") to scroll through a list of cards.
+          ⚡ Build a card carousel component that displays one card at a time with navigation buttons (&quot;Previous&quot; and &quot;Next&quot;) to scroll through a list of cards.
         </h2>
         <p className="text-gray-700">
           Requirements
         The component accepts a prop cards (an array of objects with title and description).
         Initially shows the first card with title and description.
-        Clicking "Next" shows the next card, and "Previous" shows the previous one.
+        Clicking &quot;Next&quot; shows the next card, and &quot;Previous&quot; shows the previous one.
         Buttons should be disabled appropriately at the start/end of the list.
         Display the card number like “1 of 5”.
         </p>
