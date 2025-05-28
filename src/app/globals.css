@@ -28,3 +28,19 @@ body {
 button {
   cursor: pointer;
 }
+
+.star {
+  font-size: 48px;
+  cursor: pointer;
+  &:hover {
+    color: yellow;
+  }
+}
+
+.gold {    
+    color: yellow;
+}
+
+.gray {
+    color: gray;
+}
